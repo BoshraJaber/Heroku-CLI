@@ -37,5 +37,10 @@ CREATE TABLE
     ssl: { rejectUnauthorized: false }
 });
  ```
- 
+
  9. Your server is ready, just click "Open app" 
+
+
+## Resources:
+* [Installing Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli#install-the-heroku-cli)
+* [Deploying with git](https://devcenter.heroku.com/articles/git#prerequisites-install-git-and-the-heroku-cli)
